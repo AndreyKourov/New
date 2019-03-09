@@ -1,0 +1,42 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+	
+}
+
+#Team{
+	text-align: center;
+	height: 400px;
+	background: url(img/bike.jpg);
+	
+	background-size: contain;
+	background-repeat: no-repeat;
+		
+}
+
+hr{
+	border-color: #424242;
+	border-width: 2px;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;// значение высоты #footer
+}
+
+.social a {
+	font-size: 40px;
+	padding: 20px;
+	color: #424242;
+}
+
+.social a:hover{
+	color: #BDBDBD;
+}
