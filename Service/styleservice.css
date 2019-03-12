@@ -10,7 +10,7 @@
 	height: 500px;
 	border-top: 4px solid #f0f0f0;
 	border-bottom: 4px solid #f0f0f0;
-	background: url("img/bike.jpg") no-repeat center center fixed;
+	background: url("../img/carousel0.jpg") no-repeat center center fixed;
 	background-blend-mode: multiply;
 	background-color: #A4A4A4;
 	background-size: cover;
@@ -27,6 +27,8 @@ h2{
 h1{
 	text-shadow: 1px 1px 1px #F2F2F2;
 }
+
+
 
 .carousel-caption{
 	position: absolute;

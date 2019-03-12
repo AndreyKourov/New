@@ -1,0 +1,22 @@
+<div class="container-fluid" id="Team">
+	    <div class="row align-items-end">
+		    <div class="col"><h1>ProximityExtremSports</h1><hr/><br/>
+			<h2 style="color: #FAFAFA;">You have a whole life to become who you wanted to be!<h2><br/>
+			<button type="button" href="#" class="btn btn-outline-secondary">TEAM</button>
+		    </div>
+			
+	    </div>
+</div>
+
+
+=================================
+
+#Team{
+	text-align: center;
+	height: 400px;
+	background: url(img/bike.jpg);
+	
+	background-size: contain;
+	background-repeat: no-repeat;
+		
+}
